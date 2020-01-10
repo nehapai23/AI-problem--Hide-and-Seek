@@ -1,9 +1,6 @@
 # AI-problem--Hide-and-Seek
 An interesting solution to a problem based on NQueen Variant
 
-## Part 2: Hide-and-Seek
-
-
 ### Problem: 
 Place k friends 'F' on the map with valid positions given by '.', such that they cannot see each other. Assume '&' and '@' hinders visibility, while '.' and '#' do not. Two friends can see each other if they are on the same row or column and no '&' or '@' between them.
 
